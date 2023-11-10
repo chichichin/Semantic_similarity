@@ -1,4 +1,4 @@
 # Semantic_similarity
 Cần cài đặt 
-pycharm
+pycharm và
 python 3.9
